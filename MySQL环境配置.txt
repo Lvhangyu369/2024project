@@ -1,0 +1,2 @@
+MYSQL_HOME
+D:\Program Files (x86)\javaweb
